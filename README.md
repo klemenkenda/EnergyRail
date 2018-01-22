@@ -1,1 +1,7 @@
-"# EnergyRail" 
+# EnergyRail
+
+## Installation
+
+## Exploratory Analysis
+
+
